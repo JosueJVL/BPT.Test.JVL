@@ -3,7 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT.Test.JVL.BackEnd.API", "BPT.Test.JVL.BackEnd.API\BPT.Test.JVL.BackEnd.API.csproj", "{BD9FA15E-DC33-44DC-9C5E-24489D4BC1D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT.Test.JVL.BackEnd.DataAccess", "BPT.Test.JVL.BackEnd.DataAccess\BPT.Test.JVL.BackEnd.DataAccess.csproj", "{2874570B-190F-431E-BCFC-72F2D15394DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT.Test.JVL.BackEnd.Services", "BPT.Test.JVL.BackEnd.Services\BPT.Test.JVL.BackEnd.Services.csproj", "{9112ECF4-5B12-49D4-B812-D4FC10A0A3EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B82BE3F4-9034-4757-85D0-622D08ADD154}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQuery.sql = SqlQuery.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT.Test.JVL.FrontEnd.Client", "BPT.Test.JVL.FrontEnd.Client\BPT.Test.JVL.FrontEnd.Client.csproj", "{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9FA15E-DC33-44DC-9C5E-24489D4BC1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9FA15E-DC33-44DC-9C5E-24489D4BC1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9FA15E-DC33-44DC-9C5E-24489D4BC1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9FA15E-DC33-44DC-9C5E-24489D4BC1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2874570B-190F-431E-BCFC-72F2D15394DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2874570B-190F-431E-BCFC-72F2D15394DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2874570B-190F-431E-BCFC-72F2D15394DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2874570B-190F-431E-BCFC-72F2D15394DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9112ECF4-5B12-49D4-B812-D4FC10A0A3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9112ECF4-5B12-49D4-B812-D4FC10A0A3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9112ECF4-5B12-49D4-B812-D4FC10A0A3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9112ECF4-5B12-49D4-B812-D4FC10A0A3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

@@ -1,0 +1,15 @@
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.exe
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.deps.json
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.runtimeconfig.json
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.runtimeconfig.dev.json
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.pdb
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.csprojAssemblyReference.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.AssemblyInfoInputs.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.AssemblyInfo.cs
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.pdb
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.genruntimeconfig.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.csproj.CoreCompileInputs.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.FrontEnd.Client\obj\Debug\netcoreapp3.1\BPT.Test.JVL.FrontEnd.Client.csproj.CopyComplete

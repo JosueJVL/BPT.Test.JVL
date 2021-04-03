@@ -1,0 +1,9 @@
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.deps.json
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.pdb
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.csprojAssemblyReference.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfo.cs
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.pdb

@@ -1,0 +1,5 @@
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.Services\bin\Debug\netstandard2.0\BPT.Test.JVL.BackEnd.Services.deps.json
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.Services\bin\Debug\netstandard2.0\BPT.Test.JVL.BackEnd.Services.dll
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.Services\obj\Debug\netstandard2.0\BPT.Test.JVL.BackEnd.Services.csprojAssemblyReference.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.Services\obj\Debug\netstandard2.0\BPT.Test.JVL.BackEnd.Services.AssemblyInfoInputs.cache
+C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.Services\obj\Debug\netstandard2.0\BPT.Test.JVL.BackEnd.Services.AssemblyInfo.cs
