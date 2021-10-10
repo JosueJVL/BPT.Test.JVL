@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.Services\\BPT.Test.JVL.BackEnd.Services.csproj": {}
+    "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/BPT.Test.JVL.BackEnd.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\BPT.Test.JVL.BackEnd.DataAccess.csproj": {
+    "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/BPT.Test.JVL.BackEnd.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\BPT.Test.JVL.BackEnd.DataAccess.csproj",
+        "projectUniqueName": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/BPT.Test.JVL.BackEnd.DataAccess.csproj",
         "projectName": "BPT.Test.JVL.BackEnd.DataAccess",
-        "projectPath": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\BPT.Test.JVL.BackEnd.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\jvicencio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\obj\\",
+        "projectPath": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/BPT.Test.JVL.BackEnd.DataAccess.csproj",
+        "packagesPath": "/Users/josuevicenciolara/.nuget/packages/",
+        "outputPath": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jvicencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/josuevicenciolara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +36,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -63,40 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.Services\\BPT.Test.JVL.BackEnd.Services.csproj": {
+    "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/BPT.Test.JVL.BackEnd.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.Services\\BPT.Test.JVL.BackEnd.Services.csproj",
+        "projectUniqueName": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/BPT.Test.JVL.BackEnd.Services.csproj",
         "projectName": "BPT.Test.JVL.BackEnd.Services",
-        "projectPath": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.Services\\BPT.Test.JVL.BackEnd.Services.csproj",
-        "packagesPath": "C:\\Users\\jvicencio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.Services\\obj\\",
+        "projectPath": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/BPT.Test.JVL.BackEnd.Services.csproj",
+        "packagesPath": "/Users/josuevicenciolara/.nuget/packages/",
+        "outputPath": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jvicencio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/josuevicenciolara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\BPT.Test.JVL.BackEnd.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\jvicencio\\source\\repos\\BPT.Test.JVL\\BPT.Test.JVL.BackEnd.DataAccess\\BPT.Test.JVL.BackEnd.DataAccess.csproj"
+              "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/BPT.Test.JVL.BackEnd.DataAccess.csproj": {
+                "projectPath": "/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/BPT.Test.JVL.BackEnd.DataAccess.csproj"
               }
             }
           }
@@ -109,6 +98,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -142,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

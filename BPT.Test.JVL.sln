@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B82BE3F4-9034-4757-85D0-622D08ADD154}"
 	ProjectSection(SolutionItems) = preProject
 		SqlQuery.sql = SqlQuery.sql
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT.Test.JVL.FrontEnd.Client", "BPT.Test.JVL.FrontEnd.Client\BPT.Test.JVL.FrontEnd.Client.csproj", "{9141677B-2B7A-4D0B-89AD-56C18BB12F1D}"

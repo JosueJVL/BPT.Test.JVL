@@ -1,9 +1,19 @@
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.deps.json
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.dll
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\bin\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.pdb
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.csprojAssemblyReference.cache
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfoInputs.cache
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfo.cs
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.dll
-C:\Users\jvicencio\source\repos\BPT.Test.JVL\BPT.Test.JVL.BackEnd.DataAccess\obj\Debug\netstandard2.1\BPT.Test.JVL.BackEnd.DataAccess.pdb
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.deps.json
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.dll
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.pdb
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.csprojAssemblyReference.cache
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.csproj.CoreCompileInputs.cache
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfoInputs.cache
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfo.cs
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.dll
+C:/Users/jvicencio/source/repos/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.pdb
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.deps.json
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.dll
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.pdb
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.csproj.AssemblyReference.cache
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfoInputs.cache
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.AssemblyInfo.cs
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.csproj.CoreCompileInputs.cache
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.dll
+/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.DataAccess/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.DataAccess.pdb
