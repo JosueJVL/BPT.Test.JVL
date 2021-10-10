@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>BPT.Test.JVL.BackEnd.Services</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>9112ecf4-5b12-49d4-b812-d4fc10a0a3ee</ProjectGuid>
+  <FullPath>/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/BPT.Test.JVL.BackEnd.Services.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/.sonarqube/conf/2/FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.Services.dll.RoslynCA.json|/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/bin/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.Services.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">/Users/josuevicenciolara/Projects/carpeta sin título/BPT.Test.JVL/.sonarqube/out/2</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>netstandard2.1</TargetFramework>
+</ProjectInfo>

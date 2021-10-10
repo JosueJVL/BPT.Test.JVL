@@ -1,0 +1,20 @@
+€
+w/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/DTOs/AssignmentDto.csutf-8‡
+~/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/DTOs/AssignmentStudentDto.csutf-8~
+u/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/DTOs/StudentsDTO.csutf-8|
+s/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/DTOs/UserModel.csutf-8
+x/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Helpers/AutoMapping.csutf-8‹
+/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IAssignmentService.csutf-8’
+ˆ/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IAssignmentStudentService.csutf-8‘
+‡/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IDetailAssignmentService.csutf-8
+„/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IDetailStudentService.csutf-8’
+ˆ/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IJwTAuthenticationService.csutf-8‡
+~/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/IServices/IStudentService.csutf-8ˆ
+/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/AssignmentService.csutf-8
+†/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/AssignmentStudentService.csutf-8
+…/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/DetailAssignmentService.csutf-8Œ
+‚/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/DetailStudentService.csutf-8
+†/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/JwTAuthenticationService.csutf-8…
+|/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/Services/StudentService.csutf-8¶
+ª/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8´
+¨/Users/josuevicenciolara/Projects/carpeta sin tiÌtulo/BPT.Test.JVL/BPT.Test.JVL.BackEnd.Services/obj/Debug/netstandard2.1/BPT.Test.JVL.BackEnd.Services.AssemblyInfo.csutf-8
